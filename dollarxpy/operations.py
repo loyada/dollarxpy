@@ -1,0 +1,1 @@
+class OperationFailed(IOError): pass
